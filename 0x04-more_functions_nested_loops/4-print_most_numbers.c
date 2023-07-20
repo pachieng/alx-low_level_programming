@@ -1,12 +1,13 @@
 #include "main.h"
 
 /**
- * primt_most_numbers - print 01356789
+ * print_most_numbers - print 01356789
  * Return:void
  */
+
 void print_most_numbers(void)
 {
-	char c;
+char c;
 
 	for (c = '0'; c <= '9'; c++)
 	{
